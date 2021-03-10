@@ -1,0 +1,16 @@
+body{
+	background-color: #e3fdfd
+}
+img{
+	
+	 width: 200px;
+
+}
+hr{
+	background-color: white;
+	border-style :dotted none none;
+	height: 0px;
+	width:  5%;
+	border-color: grey;
+	border-width: 5px;
+}
